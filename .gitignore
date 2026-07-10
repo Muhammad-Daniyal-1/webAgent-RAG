@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+chroma_db/
+backend/webagent.db
+*.sqlite3
+
+# Node
+frontend/node_modules/
+frontend/.next/
+.env*.local
+
+graphify-out/
+
+# OS
+.DS_Store
