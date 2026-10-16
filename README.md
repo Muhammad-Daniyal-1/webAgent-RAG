@@ -1,6 +1,6 @@
 # WebAgent RAG — Self-Critiquing Agentic Chatbot
 
-A production-grade AI chatbot system that crawls a website, builds a vector knowledge base, answers questions using Retrieval-Augmented Generation (RAG), critiques its own answers for hallucination, and captures leads by collecting visitor information and submitting contact forms — all autonomously.
+An AI chatbot system that crawls a website, builds a vector knowledge base, answers questions using Retrieval-Augmented Generation (RAG), critiques its own answers for hallucination, and captures leads by collecting visitor information and submitting contact forms — all autonomously.
 
 Built as a portfolio project to demonstrate Python, FastAPI, LangGraph, RAG pipelines, agentic AI workflows, and full-stack engineering.
 
